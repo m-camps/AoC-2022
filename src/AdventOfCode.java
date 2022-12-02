@@ -9,7 +9,7 @@ public class AdventOfCode {
 	}};
     public static void main(String[] args) throws Exception {
 		selectDay("Day2");
-		if (true)
+		if (false)
 			printAllDays();
     }
 
